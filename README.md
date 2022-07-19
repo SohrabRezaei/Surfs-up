@@ -1,4 +1,4 @@
-# SurfsUp_Challenge.ipynb
+# Surfs-up
 
 ## Overview of the analysis
 
